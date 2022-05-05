@@ -8,8 +8,8 @@
  Liguangens de programação: JavaScript
 
 
-# Utilizei uma função em js para colocar os componentes na home, parecido com a estrutura da tray.
- Projeto conta com um javaScript basico, utilizando carrossel Slick.
+### JavaScript
+Utilizei uma função em js para colocar os componentes na home, parecido com a estrutura da tray, projeto conta com um javaScript basico, utilizando carrossel Slick.
 
 
 # Para rodar o projeto:
