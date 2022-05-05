@@ -13,5 +13,5 @@ Utilizei uma função em js para colocar os componentes na home, parecido com a 
 
 
 # Para rodar o projeto:
- npm install --save light-server
- npx light-server -s .
+ ### npm install --save light-server
+ ### npx light-server -s .
