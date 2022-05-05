@@ -1,1 +1,12 @@
-# challenge-auaha
+# challenge-auaha Front-End
+
+#Foi feito uma página Home, copiando o arquivo XD que recebi.
+
+#LInguagens utilizadas no projeto:
+#Linguagem-web: HTML, css;
+#Linguagem de programação: JavaScript
+
+
+#Para iniciar o projeto:
+# npm install --save light-server
+# npx light-server -s .
