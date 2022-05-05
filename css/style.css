@@ -845,6 +845,7 @@ li {
 }
 
 .sugestoes {
+  padding: 20px 0px;
   top: 2rem;
   height: 21rem;
   background-color: #fff;
@@ -867,7 +868,7 @@ li {
 }
 
 .espiar-showcase {
-  box-shadow: 2px 3px 8px 0px #000000;
+  box-shadow: -1px 2px 5px 0px #0000005c;
   width: 83px;
   height: 28px;
   background-color: #F8F8F8;
@@ -879,6 +880,10 @@ li {
   border-radius: 24px;
   display: flex;
   justify-content: center;
+}
+.icons-siga{
+  gap: 16px;
+  display: flex;
 }
 
 .adiconar-showcase {
@@ -932,14 +937,13 @@ li {
   width: 100%;
   gap: 20px;
   text-align: center;
-  margin-bottom: 20px;
   position: relative;
   top: 22px;
   z-index: 99999999;
   height: 111px;
   background-color: #ffff;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
 }
 
