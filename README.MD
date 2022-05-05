@@ -2,7 +2,7 @@
 
  Foi feito uma página home, copiando o layout do arquivo XD.
 
-## Linguagens Utilizadas
+### Linguagens Utilizadas
 
  Linguagens web: HTML, CSS
  Liguangens de programação: JavaScript
