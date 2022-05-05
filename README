@@ -10,3 +10,6 @@
 #Para iniciar o projeto:
 # npm install --save light-server
 # npx light-server -s .
+ 
+ 
+Coloquei uma função em javaScript para conseguir usar em forma de componentes "snippets", parecido com a estrutura usada na tray.
